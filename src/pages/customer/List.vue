@@ -1,4 +1,5 @@
 <template>
+<!-- 顾客管理 -->
     <div>
         <!-- 按钮-->
         <el-button round type="primary" size="small" plain @click="toAddHandler">添加</el-button>
